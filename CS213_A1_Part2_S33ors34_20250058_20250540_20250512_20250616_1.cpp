@@ -1,17 +1,33 @@
+/*
+
+
+    filters 1 & 5 & 9 & 13 & Menu :
+    احمد محمد عبد المحسن ميزار  (s33,s34) 20250058
+
+    filters 2 & 6 & 10 & 14 :
+    مارتن ايهاب سمير دوس        (s33,s34) 20250512
+
+    filters 3 & 7 & 11 & 15 :
+    محمد اسامة احمد عبدالله     (s33,s34) 20250540
+
+    filters 4 & 8 & 12 & 16 :
+    محمود مصطفى اسماعيل         (s33,s34) 20250616
+
+
+    Project Links
+
+
+    Video Link : https://drive.google.com/drive/folders/1dzN4Udi6aB2SAsHr6PzAEjAeIIhKGcSt
+    Repo link : https://github.com/EngTuna/OOP.git
+    Document Link :https://docs.google.com/document/d/1BQ2ynihaPigFOqslYTP9AvmkkwDmwgrM0secxzX4loQ/edit?usp=sharing
+
+*/
+
 #include<iostream>
 #include "Image_Class.h"
 using namespace std;
 
-/* filters 1&5&9&13:
-    احمد محمد عبد المحسن ميزار 20250058
-    filters 2&6&10&14:
-    مارتن ايهاب سمير دوس 20250512
-    filters 3&7&11&15:
-    محمد اسامة احمد عبدالله 20250540
-    filters 4&8&12&16;
-    محمود مصطفى اسماعيل 20250616
 
-*/
 
 
 Image load(){
